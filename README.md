@@ -1,1 +1,1 @@
-# bookbot
+BookBot is my first git project in the Boot.dev backend bootcamp!
